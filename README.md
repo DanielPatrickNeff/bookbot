@@ -1,5 +1,1 @@
-Initial commit
-Second commit
-Third commit
-Fourth commit
-Fifth commit
+BookBot is my first project!
